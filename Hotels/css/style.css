@@ -465,7 +465,7 @@
 
 .accmdtn-list {
     display: flex;
-    justify-content: space-between;s
+    justify-content: space-between;
     flex-wrap: wrap;
 }
 
