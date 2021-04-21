@@ -61,7 +61,10 @@
 }
 
 .logo {
+    width: 219px;
+    height: 51px;
     margin-right: 27px;
+    background: url('../img/logo.png') center center / 100% no-repeat ;
 }
 
 .header-contact-link {
@@ -85,7 +88,7 @@
     font-family: 'muller';
     font-weight: 500;
     font-size: 16px;
-    margin-left: 420px;
+    margin-left: 513px;
     color: #cc9933;
     background: url('../img/keyboard_tab.svg');
     background-repeat: no-repeat;
@@ -454,7 +457,7 @@
     background-image: url("../img/swimming-pool.svg");
 }
     
-.item-benefits:nth-child(4, 8, 10) {
+.item-benefits:nth-child (4, 8, 10){
     margin: 0;
 }
 
@@ -462,7 +465,7 @@
 
 .accmdtn-list {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between;s
     flex-wrap: wrap;
 }
 
@@ -474,7 +477,7 @@
     margin-bottom: 25px;
 }
 
-.accmdtn-item:nth-child(7, 8, 9) {
+.accmdtn-item:nth-child (7, 8, 9) {
     margin-bottom: 0;
 }
 
