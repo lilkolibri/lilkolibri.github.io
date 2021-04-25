@@ -64,7 +64,7 @@
     width: 219px;
     height: 51px;
     margin-right: 27px;
-    background: url('../img/Logo.png') center center / 100% no-repeat ;
+    background: url('../img/logo.png') center center / 100% no-repeat ;
 }
 
 .header-contact-link {
@@ -465,7 +465,7 @@
 
 .accmdtn-list {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between;s
     flex-wrap: wrap;
 }
 
